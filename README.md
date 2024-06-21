@@ -15,9 +15,9 @@ layout:
 # Bem Vindo!
 
 Aqui você irá encontrar informações úteis sobre como não tacar fogo em seu servidor ou projeto! Assim como várias dicas e guias úteis para a construção do seu projeto!\
-Para facilitar a navegação, você pode usar a função 'pesquisar' dentro do [Gitbook](https://docs.artbenedetti.com/)! Basta clicar no botão no canto superior direito ou usar a função de atalho `CTRL+K`.\
+Para facilitar a navegação, você pode usar a função 'pesquisar' dentro do [Gitbook](https://docs.minersrefuge.com.br)! Basta clicar no botão no canto superior direito ou usar a função de atalho `CTRL+K`.\
 \
-**A documentação sempre está em desenvolvimento, caso queira contribuir, abra um pull request no** [**repositório do Github**](https://github.com/Zeptiny/docs-MinersRefuge)**.**
+**A documentação sempre está em desenvolvimento, caso queira contribuir, abra um pull request no** [**repositório do Github**](https://github.com/MinersRefuge/docs)**.**
 
 
 

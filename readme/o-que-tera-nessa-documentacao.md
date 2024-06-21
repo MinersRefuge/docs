@@ -1,7 +1,7 @@
 # O que terá nessa documentação
 
 O intuito dessa documentação é trazer informações altamente requisitadas pela comunidade de Minecraft ou que são necessárias/interessantes ter publicamente disponível.\
-Qualquer pessoa poderá contribuir com essa documentação, [abrindo um issue ou pull request no Github da mesma](https://github.com/Zeptiny/docs).
+Qualquer pessoa poderá contribuir com essa documentação,[ abrindo um issue ou pull request no Github da mesma](https://github.com/MinersRefuge/docs).
 
 Tem alguns pontos principais que irão ser seguidos e informações importantes:
 
