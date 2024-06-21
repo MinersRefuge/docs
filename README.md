@@ -39,3 +39,7 @@ Para facilitar a navegação, você pode usar a função 'pesquisar' dentro do [
 {% content-ref url="readme/o-que-tera-nessa-documentacao.md" %}
 [o-que-tera-nessa-documentacao.md](readme/o-que-tera-nessa-documentacao.md)
 {% endcontent-ref %}
+
+{% content-ref url="readme/sobre-a-comunidade.md" %}
+[sobre-a-comunidade.md](readme/sobre-a-comunidade.md)
+{% endcontent-ref %}

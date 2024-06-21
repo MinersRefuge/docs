@@ -2,12 +2,7 @@
 
 * [Bem Vindo!](README.md)
   * [O que terá nessa documentação](readme/o-que-tera-nessa-documentacao.md)
-
-## Sobre a comunidade
-
-* [Parcerias](sobre-a-comunidade/parcerias.md)
-* [Objetivos](sobre-a-comunidade/objetivos.md)
-* [Organização de staff](sobre-a-comunidade/organizacao-de-staff.md)
+  * [Sobre a comunidade](readme/sobre-a-comunidade.md)
 
 ## iniciando um servidor
 
