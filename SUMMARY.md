@@ -44,8 +44,6 @@
   * [Permitindo jogadores piratas](rodando-um-servidor/guias-basicos/permitindo-jogadores-piratas.md)
   * [Pesquisa Binária](rodando-um-servidor/guias-basicos/pesquisa-binaria.md)
 * [Guia de otimização](rodando-um-servidor/guia-de-otimizacao/README.md)
-  * [Software do servidor](rodando-um-servidor/guia-de-otimizacao/software-do-servidor/README.md)
-    * [Como são os forks de diferentes softwares](rodando-um-servidor/guia-de-otimizacao/software-do-servidor/como-sao-os-forks-de-diferentes-softwares.md)
   * [Flags de inicialização](rodando-um-servidor/guia-de-otimizacao/flags-de-inicializacao.md)
   * [Pré geração de mapa](rodando-um-servidor/guia-de-otimizacao/pre-geracao-de-mapa.md)
   * [Rede - Networking](rodando-um-servidor/guia-de-otimizacao/rede-networking.md)
