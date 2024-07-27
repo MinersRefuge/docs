@@ -28,6 +28,9 @@
     * [Deixe tudo no mesmo lugar](iniciando-um-servidor/escolhendo-uma-hospedagem/localizacao-da-hospedagem/deixe-tudo-no-mesmo-lugar.md)
   * [Preço](iniciando-um-servidor/escolhendo-uma-hospedagem/preco.md)
   * [Resumo](iniciando-um-servidor/escolhendo-uma-hospedagem/resumo.md)
+* [Em casa](iniciando-um-servidor/em-casa/README.md)
+  * [Windows](iniciando-um-servidor/em-casa/windows.md)
+* [Mundos Pré-gerados](iniciando-um-servidor/mundos-pre-gerados.md)
 
 ## Rodando um servidor
 
