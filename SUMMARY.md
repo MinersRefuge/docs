@@ -56,3 +56,7 @@
 * [Anti X-Ray](rodando-um-servidor/anti-x-ray/README.md)
   * [Configuração - engine-mode: 1](rodando-um-servidor/anti-x-ray/configuracao-engine-mode-1.md)
   * [Configuração - engine-mode: 2](rodando-um-servidor/anti-x-ray/configuracao-engine-mode-2.md)
+
+## Plugins & Problemas
+
+* [Classes do Java](materiais-recursos/java-classes.md)
