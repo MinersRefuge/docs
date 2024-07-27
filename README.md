@@ -23,7 +23,6 @@ Para facilitar a navegação, você pode usar a função 'pesquisar' dentro do [
 
 **Guias e Wikis planejadas:**
 
-* Iniciando servidor em Windows (Sendo desenvolvido)
 * Iniciando servidor em Linux (Básico sem painel)
 * Como proteger um servidor de Minecraft
 * Deixando servidor local público
