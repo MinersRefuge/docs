@@ -36,4 +36,4 @@ Este erro ocorre porque a versão do Java instalada no seu sistema não é compa
 
 1. Identifique a versão do plugin: A versão da classe mencionada no erro. No exemplo acima, é a versão 65.0.
 2. Encontre a versão correspondente na tabela acima. Para o exemplo, a versão 65.0 corresponde ao Java 21.
-3. Atualize e instale a versão do Java que corresponde à versão do arquivo de classe. No exemplo, você deve instalar o Java 21.
+3. Atualize e instale a versão do Java que corresponde à versão do arquivo de classe. Você pode baixar o Java pelo [Adoptium.net](https://adoptium.net).
