@@ -6,7 +6,7 @@ description: 'Última vez que esse guia foi atualizado: 26/02/2023'
 
 Esse guia foi feito traduzindo e pegando informações dos guias do [YouHaveTrouble](https://github.com/YouHaveTrouble/minecraft-optimization) e [Paper’s Chan](https://paper-chan.moe/paper-optimization/) além da [documentação do Paper](https://docs.papermc.io/), [documentação do Spark](https://spark.lucko.me/docs), [blog do me4502](https://madelinemiller.dev/blog/problem-with-reload/) e o [Discord do Purpur](https://purpurmc.org/).
 
-Esse guia foi feito para a versão 1.19, algumas coisas ainda servem para a 1.15-1.18, e ainda assume que você está utilizando o Purpur para a maioria das configurações, Paper ou Pufferfish ainda servirão para a maior parte deste guia, qualquer software abaixo deles não é recomendado.
+Esse guia foi feito para a versão 1.21, algumas coisas ainda servem para a 1.15-1.20, e ainda assume que você está utilizando o Purpur para a maioria das configurações, Paper ou Pufferfish ainda servirão para a maior parte deste guia, qualquer software abaixo deles não é recomendado.
 
 Recomenda-se ler o guia abaixo para entender mais sobre os diferentes softwares de servidor:
 

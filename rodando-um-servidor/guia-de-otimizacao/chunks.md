@@ -53,6 +53,7 @@ Bom valores iniciais:
 
     area_effect_cloud: 8
     arrow: 16
+    breeze_wind_charge: 8
     dragon_fireball: 3
     egg: 8
     ender_pearl: 8
@@ -68,6 +69,7 @@ Bom valores iniciais:
     snowball: 8
     spectral_arrow: 16
     trident: 16
+    wind_charge: 8
     wither_skull: 4
 ```
 

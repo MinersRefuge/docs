@@ -42,7 +42,7 @@ Bons valores iniciais:
         red_sand: 300
         gravel: 300
         dirt: 300
-        grass: 300
+        short_grass: 300
         pumpkin: 300
         melon_slice: 300
         kelp: 300
@@ -57,6 +57,7 @@ Bons valores iniciais:
         acacia_leaves: 300
         dark_oak_leaves: 300
         mangrove_leaves: 300
+        cherry_leaves: 300
         cactus: 300
         diorite: 300
         granite: 300

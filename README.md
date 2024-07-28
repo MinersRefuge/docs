@@ -31,7 +31,6 @@ Para facilitar a navegação, você pode usar a função 'pesquisar' dentro do [
 
 **Atualizações Pendentes:**
 
-* Guia de Otimização
 * Anti X-Ray
 
 {% content-ref url="readme/o-que-tera-nessa-documentacao.md" %}

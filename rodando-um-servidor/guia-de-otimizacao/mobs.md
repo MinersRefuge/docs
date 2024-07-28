@@ -22,28 +22,28 @@ Você pode fazer com que mobs gerados por um gerador de monstros não tenham IA.
 Bons valores iniciais:
 
       ambient:
-        hard: 56
+        hard: 72
         soft: 30
       axolotls:
-        hard: 56
+        hard: 72
         soft: 30
       creature:
-        hard: 56
+        hard: 72
         soft: 30
       misc:
-        hard: 56
+        hard: 72
         soft: 30
       monster:
-        hard: 56
+        hard: 72
         soft: 30
       underground_water_creature:
-        hard: 56
+        hard: 72
         soft: 30
       water_ambient:
-        hard: 56
+        hard: 72
         soft: 30
       water_creature:
-        hard: 56
+        hard: 72
         soft: 30
 ```
 
@@ -166,3 +166,14 @@ This option can disable portal usage of all entities besides the player. This pr
 > Isso só deve ser ativado se os aldeões estiverem causando lag! Caso contrário, as verificações de pathfinding podem diminuir o desempenho.
 
 Aldeões lobotomizados são despojados de sua IA e apenas reabastecem suas ofertas de vez em quando. Habilitar isso lobotomizará os aldeões que não conseguem encontrar o caminho para o seu destino. Libertá-los deve deslobotomizá-los.
+
+**villager.search-radius**
+
+```
+Bons valores iniciais:
+
+          acquire-poi: 16
+          nearest-bed-sensor: 16
+```
+
+Raio dentro do qual os villagers procurarão blocos e camas no local de trabalho. Isto aumenta significativamente o desempenho de uma grande quantidade de villagers, mas os impedirá de detectar bloqueios no local de trabalho ou camas que estejam mais distantes do que o valor definido.
