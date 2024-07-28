@@ -31,7 +31,7 @@ Para facilitar a navegação, você pode usar a função 'pesquisar' dentro do [
 
 **Atualizações Pendentes:**
 
-* Anti X-Ray
+* Softwares de Servidor
 
 {% content-ref url="readme/o-que-tera-nessa-documentacao.md" %}
 [o-que-tera-nessa-documentacao.md](readme/o-que-tera-nessa-documentacao.md)

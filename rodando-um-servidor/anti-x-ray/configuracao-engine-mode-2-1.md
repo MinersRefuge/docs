@@ -1,4 +1,4 @@
-# Configuração - engine-mode: 2
+# Configuração - engine-mode: 3
 
 **Configuração pro everworld**
 
@@ -8,7 +8,7 @@ Substitua o bloco <mark style="color:yellow;">`anticheat.anti-xray`</mark> exist
 anticheat:
   anti-xray:
     enabled: true
-    engine-mode: 2
+    engine-mode: 3
     hidden-blocks:
     # You can add air here such that many holes are generated.
     # This works well against cave finders but may cause client FPS drops for all players.
@@ -65,7 +65,7 @@ Copie e cole em seu <mark style="color:yellow;">`paper-world.yml`</mark> dentro 
 anticheat:
   anti-xray:
     enabled: true
-    engine-mode: 2
+    engine-mode: 3
     hidden-blocks:
     # See note about air and possible client performance issues above.
     - air
@@ -88,7 +88,6 @@ anticheat:
     - soul_soil
     update-radius: 2
     use-permission: false
-
 ```
 
 **Configuração pro end**

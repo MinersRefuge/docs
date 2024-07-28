@@ -10,7 +10,7 @@ anticheat:
     enabled: true
     engine-mode: 1
     hidden-blocks:
-    # Não há chance de esconder baús de masmorra, pois eles são totalmente cercados por ar, mas tesouros enterrados serão escondidos.
+    # There's no chance to hide dungeon chests as they are entirely surrounded by air, but buried treasures will be hidden.
     - chest
     - coal_ore
     - deepslate_coal_ore
@@ -31,11 +31,11 @@ anticheat:
     - redstone_ore
     - deepslate_redstone_ore
     lava-obscures: false
-    # A partir de 1.18 alguns minérios são gerados muito mais alto.
-    # Por favor, ajuste a configuração de altura máxima do bloco a seu critério.
-    # https://minecraft.fandom.com/wiki/Ore pode ser útil.
+    # As of 1.18 some ores are generated much higher.
+    # Please adjust the max-block-height setting at your own discretion.
+    # https://minecraft.wiki/w/Ore might be helpful.
     max-block-height: 64
-    # A lista de blocos de substituição não é usada no engine-mode: 1. Alterar isso não terá efeito.
+    # The replacement-blocks list is not used in engine-mode: 1. Changing this will have no effect.
     replacement-blocks: []
     update-radius: 2
     use-permission: false
@@ -56,7 +56,7 @@ anticheat:
     - nether_quartz_ore
     lava-obscures: false
     max-block-height: 128
-    # A lista de blocos de substituição não é usada no engine-mode: 1. Alterar isso não terá efeito.
+    # The replacement-blocks list is not used in engine-mode: 1. Changing this will have no effect.
     replacement-blocks: []
     update-radius: 2
     use-permission: false
