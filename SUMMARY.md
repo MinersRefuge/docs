@@ -46,6 +46,7 @@
 * [Guias básicos](rodando-um-servidor/guias-basicos/README.md)
   * [Pegando IPV4 do servidor](rodando-um-servidor/guias-basicos/pegando-ipv4-do-servidor/README.md)
     * [Pelo mcsrvstat](rodando-um-servidor/guias-basicos/pegando-ipv4-do-servidor/pelo-mcsrvstat.md)
+    * [Pelo CMD](rodando-um-servidor/guias-basicos/pegando-ipv4-do-servidor/pelo-cmd.md)
   * [Permitindo jogadores piratas](rodando-um-servidor/guias-basicos/permitindo-jogadores-piratas.md)
   * [Pesquisa Binária](rodando-um-servidor/guias-basicos/pesquisa-binaria.md)
 * [Guia de otimização](rodando-um-servidor/guia-de-otimizacao/README.md)
