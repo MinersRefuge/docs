@@ -28,7 +28,6 @@ Para facilitar a navegação, você pode usar a função 'pesquisar' dentro do [
 * Deixando servidor local público
   * Com Wireguard (Avançado)
   * Com Ngrok
-  * Com Playit.gg
 
 **Atualizações Pendentes:**
 

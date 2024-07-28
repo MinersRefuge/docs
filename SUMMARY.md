@@ -30,6 +30,8 @@
   * [Resumo](iniciando-um-servidor/escolhendo-uma-hospedagem/resumo.md)
 * [Em casa](iniciando-um-servidor/em-casa/README.md)
   * [Windows](iniciando-um-servidor/em-casa/windows.md)
+  * [Deixando o servidor público](iniciando-um-servidor/em-casa/deixando-o-servidor-publico/README.md)
+    * [Playit.gg](iniciando-um-servidor/em-casa/deixando-o-servidor-publico/playit.gg.md)
 * [Mundos Pré-gerados](iniciando-um-servidor/mundos-pre-gerados.md)
 
 ## Rodando um servidor

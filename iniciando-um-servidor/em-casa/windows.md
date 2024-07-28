@@ -65,5 +65,5 @@ Saberá que o servidor está rodando após aparecer a seguinte mensagem dentro d
 
 ## Observações
 
-1. O servidor apenas estará acessível para você, em sua máquina, ou em sua rede local (Dentro de seu próprio wifi/internet), e não disponível publicamente.
+1. O servidor apenas estará acessível para você, em sua máquina, ou em sua rede local (Dentro de seu próprio wifi/internet), e não disponível publicamente. Caso queira deixar ele acessível, siga o tutorial de [Deixando o servidor público](deixando-o-servidor-publico/).
 2. O servidor pode ser acessado por outros via um VPN como Radmin ou Hamachi, desde que seja utilizado o seu IP pelos outros jogadores para acessarem o servidor.

@@ -8,3 +8,8 @@ Antes de seguir esse tutorial, tenha certeza de que já escolheu o [software de 
 [windows.md](windows.md)
 {% endcontent-ref %}
 
+Após criar o seu servidor, poderá seguir o tutorial abaixo para deixa-lo público:
+
+{% content-ref url="deixando-o-servidor-publico/" %}
+[deixando-o-servidor-publico](deixando-o-servidor-publico/)
+{% endcontent-ref %}
