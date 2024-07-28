@@ -18,3 +18,7 @@ Caso na sua hospedagem esteja com o endereço de conexão em domínio, precisar�
 {% content-ref url="pelo-mcsrvstat.md" %}
 [pelo-mcsrvstat.md](pelo-mcsrvstat.md)
 {% endcontent-ref %}
+
+{% content-ref url="pelo-cmd.md" %}
+[pelo-cmd.md](pelo-cmd.md)
+{% endcontent-ref %}
