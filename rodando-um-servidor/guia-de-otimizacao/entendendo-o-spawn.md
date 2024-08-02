@@ -74,9 +74,9 @@ Abaixo está um gráfico de como o spawn de mobs funciona em volta de um jogador
 
 **Configuração: spawn-limits**
 
-```
-Bom valores iniciais:
+**Bons valores iniciais:**
 
+```
     monsters: 20
     animals: 5
     water-animals: 2
@@ -90,9 +90,9 @@ A matemática para limitar mobs é `[quantiade de players] * [limite]`. Logicame
 
 **Configuração: ticks-per**
 
-```
-Bom valores iniciais:
+**Bons valores iniciais:**
 
+```
     monster-spawns: 10
     animal-spawns: 400
     water-spawns: 400
@@ -114,9 +114,9 @@ Permite reduzir o alcance (em chunks) de onde os mobs aparecerão ao redor do jo
 
 **Configuração: entity-activation-range**
 
-```
-Bons valores iniciais:
+**Bons valores iniciais:**
 
+```
       animals: 16
       monsters: 24
       raiders: 48
@@ -130,9 +130,9 @@ Você pode definir a que distância do jogador uma entidade deve estar para proc
 
 **Configuração: entity-tracking-range**
 
-```
-Bons valores iniciais:
+**Bons valores iniciais:**
 
+```
       players: 48
       animals: 48
       monsters: 48

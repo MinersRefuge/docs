@@ -6,9 +6,9 @@
 
 **Configuração: merge-radius**
 
-```
-Bons valores iniciais:
+**Bons valores iniciais:**
 
+```
       item: 3.5
       exp: 4.0
 ```
@@ -31,9 +31,9 @@ Tempo em ticks entre funis verificando um item acima deles ou no inventário aci
 
 **Configuração: alt-item-despawn-rate**
 
-```
-Bons valores iniciais:
+**Bons valores iniciais:**
 
+```
       enabled: true
       items:
         cobblestone: 300
@@ -107,8 +107,9 @@ A geração de mapas do tesouro é extremamente cara e pode travar um servidor s
 
 **Configuração: treasure-maps.find-already-discovered**
 
+**Bons valores iniciais:**
+
 ```
-Bons valores iniciais:
       loot-tables: true
       villager-trade: true
 ```

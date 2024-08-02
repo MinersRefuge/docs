@@ -18,9 +18,9 @@ Você pode fazer com que mobs gerados por um gerador de monstros não tenham IA.
 
 **Configuração: despawn-ranges**
 
-```
-Bons valores iniciais:
+**Bons valores iniciais:**
 
+```
       ambient:
         hard: 72
         soft: 30
@@ -87,9 +87,9 @@ Aqui você pode desativar as colisões do suporte de armadura. Isso ajudará se 
 
 **tick-rates**
 
-```
-Bons valores iniciais:
+**Bons valores iniciais:**
 
+```
   behavior:
     villager:
       validatenearbypoi: 60
@@ -169,9 +169,9 @@ Aldeões lobotomizados são despojados de sua IA e apenas reabastecem suas ofert
 
 **villager.search-radius**
 
-```
-Bons valores iniciais:
+**Bons valores iniciais:**
 
+```
           acquire-poi: 16
           nearest-bed-sensor: 16
 ```

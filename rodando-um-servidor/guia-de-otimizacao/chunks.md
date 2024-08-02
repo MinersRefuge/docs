@@ -48,9 +48,9 @@ Quando ativado, impede que os jogadores se movam para chunks descarregadas e cau
 
 **entity-per-chunk-save-limit**
 
-```
-Bom valores iniciais:
+**Bons valores iniciais:**
 
+```
     area_effect_cloud: 8
     arrow: 16
     breeze_wind_charge: 8
