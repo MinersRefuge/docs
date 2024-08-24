@@ -6,7 +6,7 @@
 
 Todos esses softwares sempre atualizam para a última versão do MInecraft e apenas dão suporte para a última versão, cada atualização de versão pode demorar entre alguns dias para algumas semanas, mas sempre ocorrerão.
 
-Um ponto importante é que como um é fork de outro, se baseando em outro, significa que:
+Um ponto importante é que como um é fork de outro ([explicação detalhada](./)), se baseando em outro, significa que:
 
 Qualquer plugin do Bukkit funcionará no Spigot, isso pelo Spigot se basear no Bukkit, mas não qualquer plugin do Paper funcionará no Spigot, pois o Paper contém mais adições na API.
 

@@ -1,7 +1,3 @@
----
-description: 'Última vez que esse guia foi atualizado: 29/12/2023'
----
-
 # Softwares de servidor
 
 Este guia foi feito se baseando principalmente nas minhas experiências pessoais. Além de informações do [Discord do Purpur](https://purpurmc.org/), documentação do Paper, Spigot, Bukkit, E os gráficos do Luminescent

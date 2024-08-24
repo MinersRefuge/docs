@@ -15,5 +15,12 @@ Maiores lidas sobre esse assunto:
 
 O software que pode ser minimamente "recomendado" caso mods e plugins sejam realmente necessários é o SpongeForge, no qual utiliza plugins feitos especialmente para o SpongeForge, entretanto, ainda irá encontrar problemas e falta de suporte em múltiplos locais.
 
-<table><thead><tr><th width="151">Software</th><th width="147">Última Versão</th><th>Descrição</th></tr></thead><tbody><tr><td>SpongeForge</td><td>1.16.5</td><td>Forge + SpongePlugins</td></tr><tr><td>Magma</td><td>1.19.3</td><td>Forge + Bukkit</td></tr><tr><td>Mohist</td><td>1.20.2</td><td>Forge + Bukkit - Conhecido por trocar plugins por versões modificadas</td></tr><tr><td>Archlight</td><td>1.20.4</td><td>Forge + Bukkit</td></tr><tr><td>CardBoard</td><td>1.19.4</td><td>Mod do Fabric com suporte para plugins do Bukkit/Spigot/Paper</td></tr><tr><td>CatServer</td><td>1.18.2</td><td>Forge + Bukkit</td></tr><tr><td>Crucible</td><td>1.7.10</td><td>Forge + Bukkit - baseado no Thermos</td></tr></tbody></table>
+<table><thead><tr><th width="151">Software</th><th width="147">Última Versão</th><th>Descrição</th></tr></thead><tbody><tr><td><a href="https://spongepowered.org/">SpongeForge</a></td><td>1.21.1</td><td>Forge + SpongePlugins</td></tr><tr><td><a href="https://mohistmc.com/downloads">Mohist</a></td><td>1.21.1</td><td>Forge + Bukkit - Conhecido por trocar plugins por versões modificadas</td></tr><tr><td><a href="https://github.com/IzzelAliz/Arclight">Archlight</a></td><td>1.21</td><td>Forge + Bukkit</td></tr><tr><td><a href="https://catmc.org/">CatServer</a></td><td>1.18.2</td><td>Forge + Bukkit</td></tr><tr><td><a href="https://github.com/CrucibleMC/Crucible">Crucible</a></td><td>1.7.10</td><td>Forge + Bukkit - baseado no Thermos</td></tr><tr><td><a href="https://modrinth.com/mod/cardboard">CardBoard</a></td><td>1.20.4</td><td><strong>Mod</strong> do Fabric com suporte para plugins do Bukkit/Spigot/Paper</td></tr></tbody></table>
 
+## Softwares não mais suportados:
+
+Uma lista dos software nos quais não são mais atualizados, e o suporte para o mesmo será extremamente limitado.
+
+| Software                                          | Última Versão                                 | Descrição      |
+| ------------------------------------------------- | --------------------------------------------- | -------------- |
+| [Magma](https://github.com/magmafoundation/Magma) | <p>1.20.1 - Exprimental<br>1.12 - Estável</p> | Forge + Bukkit |
