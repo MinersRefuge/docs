@@ -1,10 +1,6 @@
----
-description: 'Última vez que esse guia foi atualizado: 28/12/2023'
----
+# Escolhendo uma Hospedagem
 
-# Escolhendo uma hospedagem
-
-Este guia foi feito se baseando principalmente nas minhas experiências pessoais, tanto como um cliente de hospedagem e um provedor de hospedagem. Além de informações do [Discord do Purpur](https://purpurmc.org/).
+Este guia foi feito se baseando, principalmente, nas minhas experiências pessoais, tanto como um cliente de hospedagem e um provedor. Além de informações do [Discord do Purpur](https://purpurmc.org/).
 
 Nunca haverá um guia que lhe dará resultados perfeitos. Cada servidor tem suas próprias necessidades e limites. Este guia visa apenas ajudá-lo a entender as diferentes características de uma hospedagem, o que buscar e evitar. Se você acha que encontrou informações incorretas neste guia, não hesite em entrar em contato.
 

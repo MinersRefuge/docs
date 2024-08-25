@@ -17,3 +17,7 @@ Estes sendo a linha Epyc, Xeon e Threadripper, além dos procesadores com a tecn
 ### Foque no Single Core
 
 O que nos resta é a série de processadores Ryzen da AMD, que isso será o que você estará buscando, no momento, deverá procurar por hospedagens que oferecem Ryzen de 5 ou 7 geração, 3 geração ainda poderá servir para servidores mais básicos ou sem muitos players, ou enquanto está desenvolvendo o seu servidor. Processadores intel também são ótimas opções caso não caia no azar de utilizar algum núcleo de eficiência.
+
+Caso deseja ter uma base e comparação, utilize o benchmark do [Geekbench](https://www.geekbench.com/), uma base mínima de 2500 pontos é o recomendado, os pontos são lineares, ou seja, se um processador A tem 2000 pontos e o B tem 4000 pontos, o B terá duas vezes mais performance.&#x20;
+
+OBS: Os benchmarks do Geekbench são sintéticos e a performance não terá uma relação 1:1 em casos reais.

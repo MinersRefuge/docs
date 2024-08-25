@@ -24,4 +24,4 @@ O painel que muitas empresas usam, ou se baseiam, é o chamado Pterodactyl, e te
 
 Hospedagens então anunciam explicamente "vCore"/"Núcleo"/"Core" dedicados, assim você sempre terá total certeza que poderá usar tudo o que comprou.
 
-**Observação:** Enquanto hospedagens que não realizam essa prática de núcleos dedicados venderão uma performance mais degradada, isso não significa que não conseguirá rodar o seu servidor, tanto que a maioria das hospedagens **não vendem núcleos dedicados**, um servidor de testes, para os amigos, ou pequena comunidade, deve encontrar nenhum problema utlizando recursos compartilhados, apenas em casos extremos que sua performance será gravemente afetada.
+**Observação:** Enquanto hospedagens que não realizam essa prática de núcleos dedicados venderão uma performance mais degradada, isso não significa que não conseguirá rodar o seu servidor, tanto que a maioria das hospedagens **não vendem núcleos dedicados**, um servidor de testes, para os amigos, ou pequena comunidade, **deve encontrar nenhum problema utlizando recursos compartilhados**, apenas em casos extremos que sua performance será gravemente afetada.

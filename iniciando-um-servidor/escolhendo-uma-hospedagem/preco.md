@@ -6,4 +6,6 @@ Depende da localização, depende dos recursos e das características das hosped
 
 O preço, o custo da hospedagem, será definido por quanto você valoriza o seu servidor estar online, estar funcional, protegido e sugero, rodando da melhor maneira e forma possível.
 
-Então é impossível de dar valores específicos, pois dependerão de pessoa a pessoa, caso a caso.
+Você, como um dono de servidor, estará oferecendo um serviço para seus clientes, ou seja, os players. Quanto que esse serviço estiver online, funcional, e seguro vale?
+
+Entretanto, o preço não é uma tradução 1:1 para a qualidade que a empresa oferece, sempre busque alternativas e opções antes de fazer a sua escolha.

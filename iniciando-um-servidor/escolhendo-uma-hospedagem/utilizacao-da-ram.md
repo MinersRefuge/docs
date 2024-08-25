@@ -1,7 +1,7 @@
 # Utilização da ram
 
 Caso seja apenas um servidor, não será uma rede, é mais fácil de definir quanto precisará.\
-Em qualquer versão acima da 1.13 oconsenso geral é o mínimo de 4GB de ram, com o recomendado sendo 6GB de ram.\
+Em qualquer versão acima da 1.13 o consenso geral é o mínimo de 4GB de ram, com o recomendado sendo 6GB de ram.\
 Isto por causa de algo chamado "The Flattering" e as grandes mudanças que a mojang apresentou nas versões 1.13 e 1.14
 
 <details>

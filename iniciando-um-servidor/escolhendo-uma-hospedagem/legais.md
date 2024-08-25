@@ -6,6 +6,6 @@ Entretanto, muitas empresas não são registradas ou são registradas incorretam
 
 Uma empresa não registrada não terá um CNPJ ou MEI (Micro Empreendedor Individual), enquanto uma empresa não registrada corretamente terá um MEI ou CNPJ com atividades incorretas.
 
-MEI não pode vender hospedagens, pois não podem realizar a atividade necessária, em muitos casos MEI terão atividades gerais da internet, mas não estarão registradas na atividade correta.
+MEI não pode vender hospedagens, pois não podem realizar a atividade necessária, em muitos casos eles terão atividades gerais da internet, mas não estarão registradas na atividade correta.
 
-Um CNPJ estará registrado incorretamente se não tiver a atividade correta, sendo a atividade que deve estar registrada denominada de CNAE 6311-9/00. Podendo ser facilmente conferida por apenas copiar o CNPJ e colar no Google, trará todas as atividades que a empresa realiza juntamente com algumas informações adicionais.
+Um CNPJ estará registrado incorretamente se não tiver a atividade correta, sendo a atividade que deve estar registrada denominada de **CNAE 6311-9/00**. Podendo ser facilmente conferida por apenas copiar o CNPJ e colar no Google, trará todas as atividades que a empresa realiza juntamente com algumas informações adicionais.

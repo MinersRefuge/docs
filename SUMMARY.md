@@ -14,7 +14,7 @@
   * [Proxy](iniciando-um-servidor/softwares-de-servidor/proxy.md)
   * [Exóticos](iniciando-um-servidor/softwares-de-servidor/exoticos.md)
   * [Softwares pagos](iniciando-um-servidor/softwares-de-servidor/softwares-pagos.md)
-* [Escolhendo uma hospedagem](iniciando-um-servidor/escolhendo-uma-hospedagem/README.md)
+* [Escolhendo uma Hospedagem](iniciando-um-servidor/escolhendo-uma-hospedagem/README.md)
   * [Requisitos](iniciando-um-servidor/escolhendo-uma-hospedagem/requisitos.md)
   * [Utilização da ram](iniciando-um-servidor/escolhendo-uma-hospedagem/utilizacao-da-ram.md)
   * [Processador](iniciando-um-servidor/escolhendo-uma-hospedagem/processador.md)

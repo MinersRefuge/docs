@@ -20,5 +20,5 @@ Backups off-site significa que os backups não são salvos na mesma máquina e n
 
 Server Splitter nada mais é você poder comprar apenas um plano e no próprio painel dividir ele, evitando perdas de tempos e sendo simples para configurar e testar.
 
-Enquanto muitas empresas oferecem proteção DDoS, muitas mentem ou não servem para nada, esse é um assunto bem aprofundado que está fora do escopo desse guia, mas busque por empresas que oferecem proteção e de preferência que tenha alguma citação do provedor da proteção, por exemplo:\
-Proteção de X TBps/GBps fornecida por Y
+Enquanto muitas empresas oferecem proteção DDoS, muitas mentem ou não servem para nada, esse é um assunto bem aprofundado que está fora do escopo desse guia, mas busque por empresas que oferecem proteção e de preferência que **tenha alguma citação do provedor da proteção**, por exemplo:\
+Proteção de X TBps/GBps fornecida por Y.

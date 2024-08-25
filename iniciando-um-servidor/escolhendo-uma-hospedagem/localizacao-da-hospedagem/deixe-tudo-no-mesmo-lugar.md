@@ -9,4 +9,4 @@ Isso é pela maneira que o trafego do Minecraft funciona dentro de uma network:
 Isso é, o tráfego do cliente passa pelo proxy e vai até o backend, para voltar ao cliente ele vem do backend, vai para o proxy e depois ao cliente.\
 Ou seja, todo o trafego do seu servidor **sempre irá passar pelo proxy,** busque sempre ter a menor latência possível entre o proxy e o backend.
 
-Também tem a questão da segurança, é muito mais seguro apenas o proxy estar disponível publicamente e os backend apenas poder ser acessado dentro da mesma rede, assim, impedindo que ataques externos sejam feitos aos backend.
+Também, a segurança poderá estar degradada, é muito mais seguro apenas o proxy estar disponível publicamente e os backend apenas poder ser acessado dentro da mesma rede, assim, impedindo que ataques externos sejam feitos, tendo menos pontos fracos em seu servidor.
