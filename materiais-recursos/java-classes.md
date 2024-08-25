@@ -52,7 +52,7 @@ Irá receber a seguinte resposta, ou similar:
 
 <figure><img src="../.gitbook/assets/WindowsTerminal_qNhwFDdyw2.png" alt=""><figcaption></figcaption></figure>
 
-Veja qual dos Javas indicado é para a sua versão do servidor, na print a cima, respectivamente, casa localização do java corresponde as versões 17, 8 e 21.
+Veja qual dos Javas indicado é para a sua versão do servidor, na print a cima, respectivamente, cada localização do java corresponde, respectivamente, as versões 17, 8 e 21.
 
 2. Edite o seu start.bat para contar a localização do Java.
 
@@ -64,4 +64,4 @@ Dentro do seu start.bat, a primeira palavra será `java`, remova ela e coloque a
 
 <mark style="color:red;">Não copie cegamente o exemplo a cima, utilize a localização no qual o comando WHERE JAVA lhe deu.</mark>
 
-3. Inicie o seu servidor novamente que o problema deve ter se resolvido.
+3. Inicie o seu servidor novamente e veja se o problema foi corrigido.
