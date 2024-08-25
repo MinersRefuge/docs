@@ -14,7 +14,7 @@ Nesse gráfico percebemos que o Purpur se baseia no Paper (Fork) com atualizaç�
 
 Entretanto, esses não são todos os softwares, e o gráfico não está completo, então:
 
-<figure><img src="../../.gitbook/assets/img (1).png" alt=""><figcaption><p>Gráfico dos softwares de servidores mais comuns de luminescent.dev, versão caótica</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/fork-graph.png" alt=""><figcaption><p>Gráfico dos softwares de servidores mais comuns de luminescent.dev, versão caótica</p></figcaption></figure>
 
 E agora percebemos que tudo é um caos que vai de um lado ao outro e um spaghetti, não se preocupe que pode ficar pior.
 
