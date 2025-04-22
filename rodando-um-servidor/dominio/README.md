@@ -1,7 +1,3 @@
----
-description: 'Última vez que esse guia foi atualizado: 29/12/2023'
----
-
 # Domínio
 
 Este guia visa apenas ajudá-lo a entender as considerações quando se pegar um domínio e como apontar/configurar ele para o seu servidor nos mais diferentes casos. Se você acha que encontrou informações incorretas neste guia, não hesite em entrar em contato.

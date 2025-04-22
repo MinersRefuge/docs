@@ -23,7 +23,7 @@ Assim da para perceber que os softwares de servidores se baseiam um nos outros, 
 O lado positivo é que tem uma maior força de trabalho, testes e comunidades para o desenvolvimento geral dos softwares, cada um focado em algo específico.\
 O lado negativo é que, em alguns casos, tentam juntar softwares que não foram feitos para interagir um com o outro e se torna um caos absoluto, como a comunidade sofreu pelo não tão famoso Yatopia.
 
-bStats contém uma lista dos softwares mais usados assim como algumas configurações, também incluindo proxies > [https://bstats.org](https://bstats.org)
+[bStats](https://bstats.org) contém uma lista dos softwares mais usados assim como algumas configurações, também incluindo proxies.
 
 Os softwares de servidores podem ser definidos em 5 categorias normalmente, entretanto, separei em mais duas aos quais softwares que não se encaixavam nas outras.
 

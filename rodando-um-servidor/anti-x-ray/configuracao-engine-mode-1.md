@@ -1,10 +1,10 @@
 # Configuração - engine-mode: 1
 
-**Configuração pro overworld**
+## **Configuração pro overworld**
 
 Substitua o bloco <mark style="color:yellow;">`anticheat.anti-xray`</mark> existente em <mark style="color:yellow;">`paper-world-defaults.yml`</mark> pelo seguinte:
 
-```
+```yaml
 anticheat:
   anti-xray:
     enabled: true
@@ -41,11 +41,11 @@ anticheat:
     use-permission: false
 ```
 
-**Configuração pro nether**
+## **Configuração pro nether**
 
 Copie e cole em seu <mark style="color:yellow;">`paper-world.yml`</mark> dentro de sua pasta do nether.
 
-```
+```yaml
 anticheat:
   anti-xray:
     enabled: true
@@ -62,11 +62,11 @@ anticheat:
     use-permission: false
 ```
 
-**Configuração pro end**
+## **Configuração pro end**
 
 Copie e cole em seu <mark style="color:yellow;">`paper-world.yml`</mark> dentro de sua pasta do end.
 
-```
+```yaml
 anticheat:
   anti-xray:
     enabled: false

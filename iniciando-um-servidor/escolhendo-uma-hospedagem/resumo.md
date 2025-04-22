@@ -3,7 +3,8 @@
 Busque empresas de hospedagens que:
 
 * Tenham um hardware decente
-  * Um processador com no mínimo 2500 pontos no benchmark do Geekbench
+  * Um processador com no mínimo 2000 pontos no benchmark do Geekbench
+    * Pesquisa o processador no [site do Geekbench](https://www.geekbench.com/)
   * Utilizam SSDs de preferência NVMe, ignore empresas que ofertam HDDs
 * São transparentes com seus recursos e produtos
   * Digam para você o que vendem, com todos os detalhes:

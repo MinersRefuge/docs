@@ -57,6 +57,7 @@
   * [Entendendo o spawn](rodando-um-servidor/guia-de-otimizacao/entendendo-o-spawn.md)
   * [Mobs](rodando-um-servidor/guia-de-otimizacao/mobs.md)
   * [Misc](rodando-um-servidor/guia-de-otimizacao/misc.md)
+  * [Helpers](rodando-um-servidor/guia-de-otimizacao/helpers.md)
   * [Plugins](rodando-um-servidor/guia-de-otimizacao/plugins/README.md)
     * [Tradução do blog do me4502](rodando-um-servidor/guia-de-otimizacao/plugins/traducao-do-blog-do-me4502.md)
 * [Anti X-Ray](rodando-um-servidor/anti-x-ray/README.md)

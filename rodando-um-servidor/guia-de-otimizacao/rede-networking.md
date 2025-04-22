@@ -1,18 +1,16 @@
 # Rede - Networking
 
-### Rede - Networking
+### Arquivo: [server.properties](https://minecraft.fandom.com/wiki/Server.properties)
 
-#### Arquivo: [server.properties](https://minecraft.fandom.com/wiki/Server.properties)
-
-**Configuração: network-compression-threshold**
+#### **network-compression-threshold**
 
 `Bom valor inicial: 256`
 
 Isso permite que você defina o limite para o tamanho de um pacote antes que o servidor tente compactá-lo. Defini-lo mais alto pode economizar alguns recursos da CPU ao custo da largura de banda e defini-lo como -1 o desativa. Definir esse valor mais alto também pode prejudicar clientes com conexões de rede mais lentas. Se o seu servidor estiver em uma rede com um proxy ou na mesma máquina (com menos de 2 ms de ping), desabilitar isso (-1) será benéfico, pois as velocidades internas da rede geralmente podem lidar com o tráfego descompactado adicional.
 
-#### Arquivo: [purpur.yml](https://purpurmc.org/docs/Configuration/)
+### Arquivo: [purpur.yml](https://purpurmc.org/docs/Configuration/)
 
-**Configuração: use-alternate-keepalive**
+#### **use-alternate-keepalive**
 
 `Bom valor inicial: true`
 

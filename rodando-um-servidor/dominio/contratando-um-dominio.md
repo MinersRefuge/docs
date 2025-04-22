@@ -8,6 +8,7 @@ Diferente de muitos serviços na internet, um domínio é contratado pagando anu
 * [Porkbun](https://porkbun.com/)
 * [Locaweb](https://www.locaweb.com.br/)
 * [Hostgator](https://www.hostgator.com.br/)
+* [Netcup](https://www.netcup.com/)
 
 Entre várias outras opções disponíveis na internet, entretanto, cada empresa terá um valor diferente, tanto de contratação quanto de renovação, você pode comparar escolhendo o seu domínio e o seu TLD e indo em cada uma das empresas para comparar as ofertas, também existem sites como [tld-list](https://tld-list.com/) que fazem essa comparação.
 

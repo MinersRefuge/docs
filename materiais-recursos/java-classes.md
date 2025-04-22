@@ -50,7 +50,7 @@ Caso após atualizar o java e iniciar o servidor novamente o problema não se re
 
 Irá receber a seguinte resposta, ou similar:
 
-<figure><img src="../.gitbook/assets/WindowsTerminal_qNhwFDdyw2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Veja qual dos Javas indicado é para a sua versão do servidor, na print a cima, respectivamente, cada localização do java corresponde, respectivamente, as versões 17, 8 e 21.
 
@@ -60,7 +60,7 @@ Dentro do seu start.bat, a primeira palavra será `java`, remova ela e coloque a
 
 **Troque:** `java -Xms4096M -Xmx4096M ...`
 
-**Para:** `"C:\Users\Artur\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\java.exe" -Xms4096M -Xmx4096M ...`
+**Para:** `"C:\Users\You\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin\java.exe" -Xms4096M -Xmx4096M ...`
 
 <mark style="color:red;">Não copie cegamente o exemplo a cima, utilize a localização no qual o comando WHERE JAVA lhe deu.</mark>
 

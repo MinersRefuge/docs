@@ -12,25 +12,15 @@ Abaixo está um gráfico de como o spawn de mobs funciona em volta de um jogador
 
 * Os cilindros marrons indicam o intervalo de geração do mob.
 
-<!---->
-
-* A esfera vermelha indica a zona de despawn do mob (entre 24 – 128 blocos).
-
-<!---->
+- A esfera vermelha indica a zona de despawn do mob (entre 24 – 128 blocos).
 
 * A esfera amarela indica a zona livre de mob, pois nenhum mob nescerá tão perto de um jogador (24 blocos).
 
-<!---->
-
-* Qualquer entidade que se enquadre no anel de 32 blocos (intervalo de ativação de entidade) será processada na taxa normal.
-
-<!---->
+- Qualquer entidade que se enquadre no anel de 32 blocos (intervalo de ativação de entidade) será processada na taxa normal.
 
 * Qualquer entidade que resida entre o anel de 32 a 128 blocos será processada a uma taxa reduzida.
 
-<!---->
-
-* Qualquer entidade que esteja fora do 128º bloco é instantaneamente eliminada.
+- Qualquer entidade que esteja fora do 128º bloco é instantaneamente eliminada.
 
 </details>
 
@@ -40,43 +30,29 @@ Abaixo está um gráfico de como o spawn de mobs funciona em volta de um jogador
 
 * **monster** category consists of Piglin Brute, Blaze, Warden, Ghast, Husk, Shulker. Zoglin, Wither Skeleton, Enderman, Witch, Creeper. Zombie Villager, Vex, Elder Guardian, Evoker, Hoglin, Zombie, Piglin, Skeleton, Slime, Stray, Magma Cube, Drowned, Cave Spider, Phantom, Ender Dragon, Zombified Piglin, Ravager, Spider, Pillager. Guardian, Vindicator. Endermite, Wither, Silverfish
 
-<!---->
-
-* **animals** or **creature** category consists of bee, cat, chicken, cow, camel, donkey, fox, goat, horse, Allay, llama, mule, mooshroom, ocelot, panda, parrot, pig, polar bear, rabbit, sheep, frog, skeleton horse, strider, trader llama, turtle, wandering trader, wolf, zombie horse.
-
-<!---->
+- **animals** or **creature** category consists of bee, cat, chicken, cow, camel, donkey, fox, goat, horse, Allay, llama, mule, mooshroom, ocelot, panda, parrot, pig, polar bear, rabbit, sheep, frog, skeleton horse, strider, trader llama, turtle, wandering trader, wolf, zombie horse.
 
 * **ambient** category consists of bat. Bat is useless.
 
-<!---->
-
-* **water-animals** or **water\_creature** category consists of squid and dolphins.
-
-<!---->
+- **water-animals** or **water\_creature** category consists of squid and dolphins.
 
 * **water-ambient** category consists of cod, pufferfish, salmon, tropical fish.
 
-<!---->
-
-* **water-underground-creature** or **underground\_water\_creature** category consists of Glow Squid.
-
-<!---->
+- **water-underground-creature** or **underground\_water\_creature** category consists of Glow Squid.
 
 * **axolotl** category consists of Axolotl.
 
-<!---->
-
-* **Misc** category consists of Dragon Fireball, Small Fireball, Shulker Bullet, Item Frame, Boat with Chest, Snowball, Primed TNT, Minecart with Furnace, Area Effect Cloud, Fainting, Glou Item Frame, Villager, Spectral Arrow, Lightning Bolt, Evoker Fangs, Thrown Bottle o’ Enchanting, Potion, Minecart with TNT, Llama Spit, Eye of Ender, Fishing Bobber, Arrow, Minecart with Chest, Wither Skull, Snow Golem, Thrown Egg, Minecart, Boat, Item, Marker, Player. Minecart with Hopper, Minecart with Monster Spawner, Firework Rocket, Falling Block, Fireball, Iron Golem, Thrown Ender Pearl, Armor Stand, End Crystal, Experience Orb, Leash Knot, Trident, Minecart with Command Block.
+- **Misc** category consists of Dragon Fireball, Small Fireball, Shulker Bullet, Item Frame, Boat with Chest, Snowball, Primed TNT, Minecart with Furnace, Area Effect Cloud, Fainting, Glou Item Frame, Villager, Spectral Arrow, Lightning Bolt, Evoker Fangs, Thrown Bottle o’ Enchanting, Potion, Minecart with TNT, Llama Spit, Eye of Ender, Fishing Bobber, Arrow, Minecart with Chest, Wither Skull, Snow Golem, Thrown Egg, Minecart, Boat, Item, Marker, Player. Minecart with Hopper, Minecart with Monster Spawner, Firework Rocket, Falling Block, Fireball, Iron Golem, Thrown Ender Pearl, Armor Stand, End Crystal, Experience Orb, Leash Knot, Trident, Minecart with Command Block.
 
 </details>
 
-#### Arquivo: [bukkit.yml](https://bukkit.fandom.com/wiki/Bukkit.yml)
+### Arquivo: [bukkit.yml](https://bukkit.fandom.com/wiki/Bukkit.yml)
 
-**Configuração: spawn-limits**
+#### **spawn-limits**
 
-**Bons valores iniciais:**
+Bons valores iniciais:
 
-```
+```yaml
     monsters: 20
     animals: 5
     water-animals: 2
@@ -88,11 +64,11 @@ Abaixo está um gráfico de como o spawn de mobs funciona em volta de um jogador
 
 A matemática para limitar mobs é `[quantiade de players] * [limite]`. Logicamente, quanto menores os números, menos mobs você verá. `per-player-mob-spawn` aplica um limite adicional a isso, garantindo que os mobs sejam igualmente distribuídos entre os jogadores. Reduzir isso é uma faca de dois gumes; sim, seu servidor tem menos trabalho a fazer, mas em alguns modos de jogo, mobs de geração natural são uma grande parte do jogo. Você pode chegar a 20 ou menos se ajustar o alcance do `mob-spawn` corretamente. Definir o `mob-spawn-range` mais baixo fará com que pareça que há mais mobs ao redor de cada jogador. Se você estiver usando o Paper, poderá definir limites de mob por mundo na [configuração por mundo do Paper](https://docs.papermc.io/paper/reference/world-configuration).
 
-**Configuração: ticks-per**
+#### **ticks-per**
 
-**Bons valores iniciais:**
+Bons valores iniciais:
 
-```
+```yaml
     monster-spawns: 10
     animal-spawns: 400
     water-spawns: 400
@@ -104,19 +80,19 @@ A matemática para limitar mobs é `[quantiade de players] * [limite]`. Logicame
 
 Esta opção define com que frequência (em ticks) o servidor tenta gerar certas entidades vivas. Mobs de água/ambiente não precisam gerar a cada tick, pois geralmente não são mortos tão rapidamente. Quanto aos monstros: Aumentar ligeiramente o tempo entre os spawns não deve afetar as taxas de spawn, mesmo em fazendas de monstros. Na maioria dos casos, todos os valores sob esta opção devem ser maiores que `1`. Definir isso também permite que seu servidor lide melhor com áreas onde o spawn de mobs está desativada.
 
-#### Arquivo: [spigot.yml](https://www.spigotmc.org/wiki/spigot-configuration/)
+### Arquivo: [spigot.yml](https://www.spigotmc.org/wiki/spigot-configuration/)
 
-**Configuração: mob-spawn-range**
+#### **mob-spawn-range**
 
 `Bom valor inicial: 3`
 
 Permite reduzir o alcance (em chunks) de onde os mobs aparecerão ao redor do jogador. Dependendo do modo de jogo do seu servidor e sua contagem de jogadores, você pode querer reduzir este valor junto com os limites de spawn (`spawn-limits`) do [bukkit.yml](https://bukkit.fandom.com/wiki/Bukkit.yml). Definir isso mais baixo fará com que pareça que há mais mobs ao seu redor. Isso deve ser menor ou igual à sua distância de simulação e nunca maior que seu alcance de despawn / 16.
 
-**Configuração: entity-activation-range**
+#### **entity-activation-range**
 
-**Bons valores iniciais:**
+Bons valores iniciais:
 
-```
+```yaml
       animals: 16
       monsters: 24
       raiders: 48
@@ -128,11 +104,11 @@ Permite reduzir o alcance (em chunks) de onde os mobs aparecerão ao redor do jo
 
 Você pode definir a que distância do jogador uma entidade deve estar para processar (fazer coisas). Reduzir esses valores ajuda no desempenho, mas pode resultar em mobs irresponsivos até que o jogador chegue bem perto deles. Abaixar muito isso pode quebrar certas mob farms; farms de ferro sendo a vítima mais comum.
 
-**Configuração: entity-tracking-range**
+#### **entity-tracking-range**
 
-**Bons valores iniciais:**
+Bons valores iniciais:
 
-```
+```yaml
       players: 48
       animals: 48
       monsters: 48

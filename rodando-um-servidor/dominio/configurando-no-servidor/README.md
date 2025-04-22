@@ -13,7 +13,8 @@ Para prosseguir, terá que ter em mente as seguintes coisas:
 É padrão todas as hospedagens entregarem IPs estáticos, porém, em outros casos (Como hospedando em casa), o IP poderá ser dinâmico e causar problemas.\
 Caso o seu IP seja dinâmico, precisará utilizar algo como DDNS (Dynamic DNS), para atualizar o DNS automaticamente sempre que o IP atuailizar, essa configuração de DDNS não está coberta na documentação no momento.
 
-Temos tutorais para as seguintes empresas:\
+## Tutoriais
+
 Caso a sua não esteje listada, poderá seguir a lógica, os paineis normalmente são extremamente parecidos.
 
 {% content-ref url="cloudflare/" %}

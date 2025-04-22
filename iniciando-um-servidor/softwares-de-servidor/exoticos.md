@@ -31,7 +31,7 @@ Ainda em Beta, é um software que busca trazer uma compatibilidade e funcionamen
 
 Diferente do Folia, seriam vários servidores atuando junto, ainda é extremamente instável e não recomendado apra produção.
 
-"1.20.1 fork do Purpur que permite que um administrador de servidor escale um único mundo em vários servidores. Vários servidores MultiPaper executam o mesmo mundo e usam um MultiPaper-Master para coordenar entre si e armazenar dados do servidor. Embora o MultiPaper-Master geralmente seja executado como um servidor independente, ele também pode ser executado como um plugin BungeeCord ou Velocity, que tem alguns benefícios, incluindo a capacidade de enviar jogadores para o servidor menos ocupado quando eles ingressam." - Github do MultiPaper
+"Fork do Purpur 1.20.1 que permite que um administrador de servidor escale um único mundo em vários servidores. Vários servidores MultiPaper executam o mesmo mundo e usam um MultiPaper-Master para coordenar entre si e armazenar dados do servidor. Embora o MultiPaper-Master geralmente seja executado como um servidor independente, ele também pode ser executado como um plugin BungeeCord ou Velocity, que tem alguns benefícios, incluindo a capacidade de enviar jogadores para o servidor menos ocupado quando eles ingressam." - Github do MultiPaper
 
 Maiores lidas:
 
