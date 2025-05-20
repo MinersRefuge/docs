@@ -32,6 +32,7 @@
   * [Windows](iniciando-um-servidor/em-casa/windows.md)
   * [Deixando o servidor público](iniciando-um-servidor/em-casa/deixando-o-servidor-publico/README.md)
     * [Playit.gg](iniciando-um-servidor/em-casa/deixando-o-servidor-publico/playit.gg.md)
+    * [Connect](iniciando-um-servidor/em-casa/deixando-o-servidor-publico/connect.md)
 * [Mundos Pré-gerados](iniciando-um-servidor/mundos-pre-gerados.md)
 
 ## Rodando um servidor
