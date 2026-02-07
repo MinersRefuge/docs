@@ -65,11 +65,3 @@ Bons valores iniciais:
 ```
 
 Com a ajuda desta configuração, você pode definir limites para quantas entidades do tipo especificado podem ser salvas por chunk. Você deve fornecer um limite pelo menos para cada projétil para evitar problemas com grandes quantidades de projéteis sendo salvos e seu servidor travando ao carregá-lo. Você pode colocar qualquer id de entidade aqui, consulte o wiki do minecraft para encontrar IDs de entidades. Por favor, ajuste o limite ao seu gosto. O valor sugerido para todos os projéteis é em torno de 10. Você também pode adicionar outras entidades por seus nomes de tipo a essa lista. Esta opção de configuração não foi projetada para impedir que os jogadores criem grandes mobs farms.
-
-### Arquivo: [pufferfish.yml](https://docs.pufferfish.host/setup/pufferfish-fork-configuration/)
-
-#### **Configuração: max-loads-per-projectile**
-
-`Bom valor inicial: 8`
-
-Especifica a quantidade máxima de chunks que um projétil pode carregar durante sua vida útil. Diminuir reduzirá o peso que as chunks causarão por projéteis de entidade, mas pode causar problemas com tridentes, pérolas de ender, etc.
