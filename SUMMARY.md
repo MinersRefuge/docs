@@ -3,6 +3,7 @@
 * [Bem Vindo!](README.md)
   * [O que terá nessa documentação](readme/o-que-tera-nessa-documentacao.md)
   * [Sobre a comunidade](readme/sobre-a-comunidade.md)
+  * [FAQ](readme/faq.md)
 
 ## iniciando um servidor
 
