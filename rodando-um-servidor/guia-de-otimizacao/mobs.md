@@ -1,5 +1,7 @@
 # Mobs
 
+### Arquivo: [spigot.yml](https://www.spigotmc.org/wiki/spigot-configuration/)
+
 #### **tick-inactive-villagers**
 
 `Bom valor inicial: false`
@@ -101,47 +103,7 @@ Bons valores iniciais:
       nearestlivingentitysensor: 40
 ```
 
-> Não é recomendado alterar esses valores de seus padrões enquanto o DAB do Pufferfish estiver ativado!
-
 Isso decide com que frequência os comportamentos e sensores especificados são acionados em tiques. <mark style="color:yellow;">`adquirepoi`</mark> para os aldeões parece ser o comportamento mais pesado, por isso foi bastante aumentado. Diminua-o em caso de problemas com os aldeões.
-
-### Arquivo: [pufferfish.yml](https://docs.pufferfish.host/setup/pufferfish-fork-configuration/)
-
-#### **dab.enabled**
-
-`Bom valor inicial: true`
-
-DAB (ativação dinâmica do cérebro) reduz o quanto uma entidade é processada quanto mais longe ela estiver dos jogadores. DAB funciona em um gradiente em vez de um corte brusco como EAR. Em vez de processar totalmente as entidades próximas e mal processar as entidades distantes, o DAB reduzirá a quantidade de processamento de uma entidade com base no resultado de um cálculo influenciado por <mark style="color:yellow;">`dab.activation-dist-mod`</mark>.
-
-#### **dab.max-tick-freq**
-
-`Bom valor inicial: 20`
-
-Define a quantidade mais lenta que as entidades mais distantes dos jogadores serão processadas. Aumentar esse valor pode melhorar o desempenho de entidades distantes da vista, mas pode quebrar farms ou nerfar muito o comportamento dos mobs. Se habilitar o DAB quebra os mob farms, tente diminuir esse valor.
-
-#### **dab.activation-dist-mod**
-
-`Bom valor inicial: 7`
-
-Controla o gradiente em que os mobs são processador. Diminuir isso ativará o DAB mais perto dos jogadores, melhorando os ganhos de desempenho do DAB, mas afetará como as entidades interagem com seus arredores e podem quebrar as farms de mobs. Se habilitar DAB quebra farms de mobs, tente aumentar esse valor.
-
-#### **enable-async-mob-spawning**
-
-`Bom valor inicial: true`
-
-Se o spawn de mob assíncrono deve ser habilitada. Para que isso funcione, a configuração <mark style="color:yellow;">`per-player-mob-spawns`</mark> do Paper deve estar habilitada. Na verdade, essa opção não gera mobs de forma assíncrona, mas descarrega muito do esforço computacional envolvido na geração de novos mobs para um thread diferente. Ativar esta opção não deve ser perceptível no jogo vanilla.
-
-#### **enable-suffocation-optimization**
-
-`Bom valor inicial: true`
-
-Esta opção otimiza uma verificação de sufocamento (a verificação para ver se um mob está dentro de um bloco e se deve receber dano de sufocamento), limitando a taxa de verificação ao tempo limite de dano. Essa otimização deve ser impossível de perceber, a menos que você seja um jogador extremamente técnico que está usando o tempo preciso para matar uma entidade exatamente no momento certo por sufocamento.
-
-#### **inactive-goal-selector-throttle**
-
-`Bom valor inicial: true`
-
-Acelera o seletor de metas de IA em tiques inativos de entidades, fazendo com que as entidades inativas atualizem seu seletor de metas a cada 20 tiques em vez de a cada tique. Pode melhorar o desempenho em alguns por cento e tem pequenas implicações na jogabilidade.
 
 ### Arquivo: [purpur.yml](https://purpurmc.org/docs/Configuration/)
 
@@ -155,7 +117,7 @@ Ativar isso fará com que os zumbis parem de atacar os aldeões se o servidor es
 
 `Bom valor inicial: false`
 
-This option can disable portal usage of all entities besides the player. This prevents entities from loading chunks by changing worlds which is handled on the main thread. This has the side effect of entities not being able to go through portals.
+Esta opção pode desabilitar o uso de portais de todas as entidades, exceto o jogador. Isso evita que as entidades carreguem chunks ao mudar de mundos, o que é processado no thread principal. Isso tem o efeito colateral de as entidades não conseguirem atravessar portais.
 
 #### **villager.lobotomize.enabled**
 

@@ -3,7 +3,9 @@
 Esse guia foi feito traduzindo e pegando informações dos guias do [YouHaveTrouble](https://github.com/YouHaveTrouble/minecraft-optimization) e [Paper’s Chan](https://paper-chan.moe/paper-optimization/) além da [documentação do Paper](https://docs.papermc.io/), [documentação do Spark](https://spark.lucko.me/docs), [blog do me4502](https://madelinemiller.dev/blog/problem-with-reload/) e o [Discord do Purpur](https://purpurmc.org/).
 
 Esse guia foi feito para a versão 1.21.5, algumas coisas ainda servem para a 1.15-1.21.4, e ainda assume que você está utilizando o Purpur para a maioria das configurações, Paper ou Pufferfish ainda servirão para a maior parte deste guia, qualquer software abaixo deles não é recomendado.
-
+{% hint style="info" %}
+Nota para usuários que estão no Vanilla, Fabric ou Spigot (ou qualquer coisa abaixo do Paper) - vá até o seu `server.properties` e mude `sync-chunk-writes` para `false`. Essa opção é forçada como `false` no Paper e seus forks, mas em outras implementações de servidor você precisa alterar isso manualmente. Isso permite que o servidor salve chunks fora do thread principal, diminuindo a carga no loop principal de tick.
+{% endhint %}
 Recomenda-se ler o guia abaixo para entender mais sobre os diferentes softwares de servidor:
 
 {% content-ref url="../../iniciando-um-servidor/softwares-de-servidor/" %}

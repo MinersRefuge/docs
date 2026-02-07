@@ -9,7 +9,7 @@ Bons valores iniciais:
       exp: 4.0
 ```
 
-Isso decide a distância entre os itens e exp orbs a serem mesclados, reduzindo a quantidade de itens processado no chão. Definir isso muito alto levará à ilusão de itens ou orbes de exp desaparecendo conforme eles se fundem. Definir isso muito alto quebrará algumas farms, além de permitir que os itens se teletransportem através de blocos. Não há verificações feitas para impedir que os itens se fundam através das paredes. Exp só é mesclado na criação.
+Isso decide a distância entre os itens e exp orbs a serem mesclados, reduzindo a quantidade de itens processado no chão. Definir isso muito alto levará à ilusão de itens ou orbes de exp desaparecendo conforme eles se fundem. Definir isso muito alto quebrará algumas farms, além de permitir que os itens se teletransportem através de blocos. Não há verificações feitas para impedir que os itens se fundam através das paredes (a menos que a configuração <mark style="color:yellow;">`fix-items-merging-through-walls`</mark> do Paper esteja ativada). Exp só é mesclado na criação.
 
 #### **hopper-transfer**
 
@@ -134,26 +134,18 @@ Tempo em ticks após o qual as flechas disparadas por mobs devem desaparecer ap�
 
 `Bom valor inicial: 20`
 
-Time in ticks after which arrows shot by players in creative mode should disappear after hitting something. Players can't pick these up anyway, so you may as well set this to something like `20` (1 second).
-
-### Arquivo: [pufferfish.yml](https://docs.pufferfish.host/setup/pufferfish-fork-configuration/)
-
-#### **disable-method-profiler**
-
-`Bom valor inicial: true`
-
-Esta opção desativará alguns perfis adicionais feitos pelo jogo. Essa criação de perfil não é necessária para ser executada na produção e pode causar lag adicional.
+Tempo em ticks após o qual as flechas disparadas por jogadores no modo criativo devem desaparecer após atingir algo. Os jogadores não podem pegá-los de qualquer maneira, então você também pode definir isso para algo como <mark style="color:yellow;">`20`</mark> (1 segundo).
 
 ### Arquivo: [purpur.yml](https://purpurmc.org/docs/Configuration/)
 
 #### **dolphin.disable-treasure-searching**
 
-`Good starting value: true`
+`Bom valor inicial: true`
 
 Impede que os golfinhos realizem buscas de estruturas semelhantes aos mapas do tesouro.
 
 #### **teleport-if-outside-border**
 
-`Good starting value: true`
+`Bom valor inicial: true`
 
 Permite que você teletransporte o jogador para o spawn do mundo se ele estiver fora da fronteira do mundo. Útil, pois a fronteira do mundo vanilla pode ser contornada e o dano que causa ao jogador pode ser mitigado.
