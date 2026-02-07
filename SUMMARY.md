@@ -33,6 +33,7 @@
   * [Windows](iniciando-um-servidor/em-casa/windows.md)
   * [Deixando o servidor público](iniciando-um-servidor/em-casa/deixando-o-servidor-publico/README.md)
     * [Playit.gg](iniciando-um-servidor/em-casa/deixando-o-servidor-publico/playit.gg.md)
+    * [Connect](iniciando-um-servidor/em-casa/deixando-o-servidor-publico/connect.md)
 * [Mundos Pré-gerados](iniciando-um-servidor/mundos-pre-gerados.md)
 
 ## Rodando um servidor
@@ -72,3 +73,4 @@
 ## Plugins & Problemas
 
 * [Classes do Java](materiais-recursos/java-classes.md)
+* [Desenvolvimento Eficiente](materiais-recursos/materiais.md)
