@@ -2,10 +2,10 @@
 description: 'Última vez que esse guia foi atualizado: 30/12/2023'
 ---
 
-# Pegando IPV4 do servidor
+# Pegando IPv4 do servidor
 
-Muitas vezes o IPV4 do seu servidor, juntamente com a porta, estará no painel da hospedagem.\
-Algumas hospedagens utilizam painéis diferentes, outras com temas diferentes, mas sempre será o endereço que precisará para entrar no servidor, como no exemplo abaixo:
+Muitas vezes o IPv4 do seu servidor, juntamente com a porta, estará no painel da hospedagem.
+Algumas hospedagens utilizam painéis diferentes (ou temas diferentes), mas o endereço que você precisa para entrar no servidor geralmente estará lá, como no exemplo abaixo:
 
 <figure><img src="../../../.gitbook/assets/image (42).png" alt=""><figcaption><p>Exemplo de servidor no painel Pterodactyl com o tema padrão, com endereço de conexão em IP</p></figcaption></figure>
 

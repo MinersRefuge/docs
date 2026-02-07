@@ -8,7 +8,7 @@ Ou quando você tenta iniciar o servidor pela primeira vez:
 
 > Exception in thread "Server Main" java.lang. Unsupported ClassVersionError: org/bukkit/craftbukkit/Main has been compiled by a more recent version of the Java Runtime (class file version 65.0), this version of the Java Runtime only recognizes class file versions up to 62.0
 
-Este erro ocorre porque a versão do Java instalada no seu sistema não é compatível com a versão da classe do plugin, veja a tabela:
+Este erro ocorre porque a versão do Java instalada no seu sistema não é compatível com a versão da classe do plugin. Veja a tabela:
 
 | **Java** | **Class Major Version** |
 | :------: | :---------------------: |
@@ -54,7 +54,7 @@ Irá receber a seguinte resposta, ou similar:
 
 Veja qual dos Javas indicado é para a sua versão do servidor, na print a cima, respectivamente, cada localização do java corresponde, respectivamente, as versões 17, 8 e 21.
 
-2. Edite o seu start.bat para contar a localização do Java.
+2. Edite o seu start.bat para conter a localização do Java.
 
 Dentro do seu start.bat, a primeira palavra será `java`, remova ela e coloque a localização do Java no qual precisa utilizar, como no exemplo abaixo:
 

@@ -6,7 +6,7 @@ description: >-
 
 # Tradução do blog do me4502
 
-## [Link original pro blog](https://madelinemiller.dev/blog/problem-with-reload/)
+## [Link original para o blog](https://madelinemiller.dev/blog/problem-with-reload/)
 
 ### Por que ele existe?
 

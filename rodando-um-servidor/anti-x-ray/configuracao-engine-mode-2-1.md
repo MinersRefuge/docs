@@ -1,6 +1,6 @@
 # Configuração - engine-mode: 3
 
-## **Configuração pro everworld**
+## **Configuração pro overworld**
 
 Substitua o bloco <mark style="color:yellow;">`anticheat.anti-xray`</mark> existente em <mark style="color:yellow;">`paper-world-defaults.yml`</mark> pelo seguinte:
 
