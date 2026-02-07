@@ -61,6 +61,8 @@
   * [Plugins](rodando-um-servidor/guia-de-otimizacao/plugins/README.md)
     * [Tradução do blog do me4502](rodando-um-servidor/guia-de-otimizacao/plugins/traducao-do-blog-do-me4502.md)
   * [Medindo desempenho](rodando-um-servidor/guia-de-otimizacao/medindo-desempenho.md)
+* [Exploits do Minecraft](rodando-um-servidor/exploits/README.md)
+  * [Exploits](rodando-um-servidor/exploits/exploits.md)
 * [Anti X-Ray](rodando-um-servidor/anti-x-ray/README.md)
   * [Configuração - engine-mode: 1](rodando-um-servidor/anti-x-ray/configuracao-engine-mode-1.md)
   * [Configuração - engine-mode: 2](rodando-um-servidor/anti-x-ray/configuracao-engine-mode-2.md)
